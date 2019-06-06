@@ -3,3 +3,6 @@ What happens when you initialize a repository? Why do you need it?
 
 How is the staging area different from working directory and the repository? What values do you think it offers?
 ->Staging area is a kind of intermediate level between a directory and a repository. Staging area offers a validation that we want to add these commits and at the same time it also increases productivity by adding changes of multiple files to the same commit.
+
+How can you use staging area to make sure you have one commit per logical change?
+->After adding a changed file to staging area I can use 'git diff' to see the difference between file from directory and file in staged area
