@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need it?
+->When you initialize a repository, that repository will now be tracked by git. A hidden '.git' folder will be created in that repository which links that repository to github.This helps us to keep track of all the files in that directory we'll be making changes to.
