@@ -6,3 +6,9 @@ How is the staging area different from working directory and the repository? Wha
 
 How can you use staging area to make sure you have one commit per logical change?
 ->After adding a changed file to staging area I can use 'git diff' to see the difference between file from directory and file in staged area
+
+What are some situations when branches would be helpful in keeping your history organised? How would branches help?
+->While experimenting with new feature of an application, we can create a branch to commit changes regarding that feature to new branch while keeping our stable version intact. Branches can also be merged, thus the changes commited in one branch can be introduced in the stable version without any code alteration.
+
+How do the diagrams help you visualise the branch structure?
+->Diagrams basically consists of lines and asterisks(which work as commits) which simplifies the concept of branches alot.
