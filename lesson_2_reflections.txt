@@ -12,3 +12,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 How do the diagrams help you visualise the branch structure?
 ->Diagrams basically consists of lines and asterisks(which work as commits) which simplifies the concept of branches alot.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+When two branches are merged together, the changes introduced in the file in those branches will be merged together(The state of files at the end of branches will be compared with the initial state of file when both branches were created). The changes will be added to final merged commit. Diagram just simplifies the interpretation of commits.
