@@ -9,3 +9,6 @@ Describe the differences between forks, clones and branches. When would you use 
   Cloning means creating a local version of a github repository on your devise to change it without changin
 the original repository
   Branching means we commit diiferent changes into one single file according to our convenience. Main branch, Master is kept for the stable version while other branhces are created to introduce new experimental features 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+->While working offline it is safe to have a copy of the remote stored locally since I know the state of the remote version of repository at some point of time. I can merge those remote changes with local changes anytime and then access the remote version(if updated) after coming online
