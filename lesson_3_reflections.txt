@@ -3,3 +3,9 @@ When would you want to use a remote repository rather than keeping all your work
 
 Why might you want to pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 ->If Git automatically pulls all the changes in the local repository from Github then it might become a tedious network of commits and generally only those commits are pulled which are related to the project I am currently working on. I dont need thode commits which does not have anything to do with my project.
+
+Describe the differences between forks, clones and branches. When would you use one intead of another?
+->Forking means creating a copy of already present repository on your github and we do it generally when we want another repository as a base and if we want to create changes in one's repository but don't wanna change his version
+  Cloning means creating a local version of a github repository on your devise to change it without changin
+the original repository
+  Branching means we commit diiferent changes into one single file according to our convenience. Main branch, Master is kept for the stable version while other branhces are created to introduce new experimental features 
