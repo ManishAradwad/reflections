@@ -12,3 +12,6 @@ the original repository
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 ->While working offline it is safe to have a copy of the remote stored locally since I know the state of the remote version of repository at some point of time. I can merge those remote changes with local changes anytime and then access the remote version(if updated) after coming online
+
+How would you collaborate without using Git or Github? What would be easier, and what would be harder?
+->I would use social media apps like WhatsApp if my group contains a limited number of people, but if group expands then I will have to start using forums and keep track of all the changes made by all the members which will become very difficult. So, using Git or Github will make it a lot more flexbile since Git keeps track of all the changes made by all the people automatically.
