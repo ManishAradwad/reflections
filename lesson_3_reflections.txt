@@ -15,3 +15,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 How would you collaborate without using Git or Github? What would be easier, and what would be harder?
 ->I would use social media apps like WhatsApp if my group contains a limited number of people, but if group expands then I will have to start using forums and keep track of all the changes made by all the members which will become very difficult. So, using Git or Github will make it a lot more flexbile since Git keeps track of all the changes made by all the people automatically.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+->If I am working on a solo project then working with branches is insignificant unless I want to introduce new or experimental features. On the other hand, if I am collaborating with other people then branches will provide more flexibility since we can contribute to project without breaking the repo's stability. If I am working on master branch alone then there is no additional work required to merge the branches while avoiding the conflicts. I think this is the only advantage of working with master branch alone which can be compromised considering the other advantages of using the branches
